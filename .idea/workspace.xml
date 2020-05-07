@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="444f5a91-8fe1-426f-bfa7-341ced97f5d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/constructs/BaseConstruct.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructs/ec2/SecurityGroup.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructs/ec2/Vpc.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/env.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cdk.json" beforeDir="false" afterPath="$PROJECT_DIR$/cdk.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/cdk-handson-stack.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/cdk-handson-stack.ts" afterDir="false" />
-    </list>
+    <list default="true" id="444f5a91-8fe1-426f-bfa7-341ced97f5d6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1588838178283</updated>
       <workItem from="1588838179767" duration="507000" />
-      <workItem from="1588843819508" duration="1413000" />
+      <workItem from="1588843819508" duration="1797000" />
     </task>
     <servers />
   </component>
@@ -81,5 +73,9 @@
       <screen x="0" y="23" width="1792" height="1033" />
     </state>
     <state x="346" y="141" key="#Project_Structure/0.23.1792.1033@0.23.1792.1033" timestamp="1588838187541" />
+    <state x="2358" y="278" width="584" height="522" key="find.popup" timestamp="1588845567602">
+      <screen x="1792" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2358" y="278" width="584" height="522" key="find.popup/0.23.1792.1033/1792.23.1920.1057@1792.23.1920.1057" timestamp="1588845567602" />
   </component>
 </project>
