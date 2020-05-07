@@ -11,7 +11,6 @@
 * https://git-scm.com/book/ja/v2/Git-%E3%81%AE%E3%82%AB%E3%82%B9%E3%82%BF%E3%83%9E%E3%82%A4%E3%82%BA-Git-%E3%83%95%E3%83%83%E3%82%AF
     * gitに用意されるhook
 * https://dev.to/elthrasher/exploring-aws-cdk-step-functions-1d1e
-    * StandardJSに規約を載せ替えたため、こちらを一番参考にした
     * TSのビルド後は `build` ディレクトリのコードを入れる構成にして、Labmdaの関数もLintの対象とする構成になっている
 
 ## ESLintのセットアップ
