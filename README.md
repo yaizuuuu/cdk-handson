@@ -166,3 +166,10 @@ tsconfig.jsonを以下の様に修正
 ```
 
 `eslint --fix` して `git add` している文献が多い
+
+# CDKの実行
+
+```bash
+cdk bootstrap
+cdk deploy
+```
