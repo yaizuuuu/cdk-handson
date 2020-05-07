@@ -173,3 +173,9 @@ tsconfig.jsonを以下の様に修正
 cdk bootstrap
 cdk deploy
 ```
+
+# テストの実行
+
+```bash
+npm run test
+```
